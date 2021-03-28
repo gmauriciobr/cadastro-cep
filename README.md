@@ -10,7 +10,7 @@
 
 #### Baixar o projeto utilizando o git:
  ``` 
-    git clone https://github.com/gmauriciobr/vue-axios.git
+    git clone https://github.com/gmauriciobr/cadastro-cep.git
  ```
 
  1. Executar o comando para fazer o build e aguardar a execução:
